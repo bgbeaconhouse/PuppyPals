@@ -1,0 +1,18 @@
+.moreInfo {
+    background-color: rgb(53, 179, 238);
+    border-radius: 10px;
+    border: 2px solid;
+    
+    
+}
+
+.eachPup {
+    font-size: larger;
+    
+   
+}
+
+.mainDiv {
+    display: flex;
+    
+}
